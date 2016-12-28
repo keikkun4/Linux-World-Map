@@ -1,0 +1,15 @@
+Contiene:
+LinuxWorldMapV2_Diavolo Qqta
++ Archivo original
+
+LinuxWorldMapV2_Traduccion KarlaLHdz.svg
++ Editable con Inkscape
+
+/Fuentes Tipograficas
++ /open-sans
+++ Fuente utilizada para los creditos de la imagen
+
++ /roman_sd
+++ Fuente utilizada en el nombre de las naciones
+
+
